@@ -8,4 +8,5 @@
 ./runtime
 runtime
 plugin/admin/config/database.php
+.DS_Store
 
