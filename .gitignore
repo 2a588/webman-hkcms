@@ -6,3 +6,6 @@
 /tests/tmp
 /tests/.phpunit.result.cache
 ./runtime
+runtime
+plugin/admin/config/database.php
+
