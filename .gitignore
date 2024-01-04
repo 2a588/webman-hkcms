@@ -9,4 +9,5 @@
 runtime
 plugin/admin/config/database.php
 .DS_Store
+composer.lock
 
