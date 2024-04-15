@@ -28,7 +28,7 @@
         "ext-json": "*",
         "ext-gd": "*",
         "guzzlehttp/guzzle": "^6.5",
-        "nelexa/zip": "^3.3",
+        "nelexa/zip": "^4.0.2",
         "symfony/var-exporter": "^4.4",
         "hkcms/cms-addons": "~1.1.0",
         "overtrue/pinyin": "^4.0",
