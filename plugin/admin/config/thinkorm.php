@@ -6,13 +6,13 @@ return [
             // 数据库类型
             'type' => 'mysql',
             // 服务器地址
-            'hostname' => '127.0.0.1',
+            'hostname' => '101.35.95.127',
             // 数据库名
-            'database' => 'webman',
+            'database' => 'atest',
             // 数据库用户名
-            'username' => 'root',
+            'username' => 'hong',
             // 数据库密码
-            'password' => '',
+            'password' => '8870561',
             // 数据库连接端口
             'hostport' => 3306,
             // 数据库连接参数

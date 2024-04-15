@@ -32,6 +32,7 @@ class Index extends BaseController
 
     public function index()
     {
+
         return $this->view->fetch();
     }
 
